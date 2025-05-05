@@ -1,1 +1,1 @@
-Final Project for CSE 4820-- Check out my report and jupyter notebooks!
+Final Project for CSE 4820
